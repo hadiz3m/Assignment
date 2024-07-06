@@ -1,0 +1,13 @@
+gho1.jpg, 0
+gho2.jpg, 0
+gho3.jpg, 0
+gho4.jpg, 0
+gho5.jpg, 0
+gho6.jpg, 0
+gho7.jpg, 0
+kar1.jpg, 1
+kar2.jpg, 1
+kar3.jpg, 1
+kar4.jpg, 1
+kar5.jpg, 1
+kar6.jpg, 1
