@@ -6,10 +6,7 @@ from dataclasses import dataclass
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
-from hellaswag import render_example, iterate_examples
-from transformers import GPT2LMHeadModel
-import tiktoken
-from mytokenizer import mytokenizer , myDataLoaderLite
+from mytokenizer import mytokenizer
 # -----------------------------------------------------------------------------
 
 device = "cpu"
