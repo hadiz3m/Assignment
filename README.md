@@ -1,1 +1,1 @@
-You can see all Assignment here
+all code here is for study and there is not for commectial code
